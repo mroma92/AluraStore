@@ -49,7 +49,7 @@ Tras un análisis riguroso y comparativo de las cuatro sucursales en un período
 
 Esta recomendación se fundamenta en los siguientes puntos clave:
 
-1.  **Rendimiento Financiero Inferior:** La **Tienda 4** es, por un margen significativo, la que menos ingresos genera, con una facturación de **\$1,038.3 millones**. Esta cifra es considerablemente más baja que la de sus pares, cuya facturación mínima es de \$1,097.7 millones. Esta brecha representa el indicador más fuerte de bajo rendimiento.
+1.  **Rendimiento Financiero Inferior:** La **Tienda 4** es, por un margen significativo, la que menos ingresos genera, con una facturación de **\$1,038.3 millones**. Esta cifra es considerablemente más baja que la de sus pares, cuya facturación mínima es de \$1,098.0 millones. Esta brecha representa el indicador más fuerte de bajo rendimiento.
 2.  **Satisfacción del Cliente Mediocre:** Aunque no es la peor calificada, la Tienda 4 presenta una calificación promedio de **4.00**, inferior a la de las tiendas 2 y 3. No posee un nivel de servicio al cliente destacado que pueda compensar su débil desempeño financiero.
 3.  **Contexto General:** Si bien la Tienda 1 presenta la peor calificación (3.98) y los costos de envío más altos, también es la que más factura. Sus problemas parecen ser de índole operativa y potencialmente solucionables, mientras que el problema de la Tienda 4 parece ser una menor capacidad para generar ventas en el mercado.
 
