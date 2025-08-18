@@ -37,9 +37,9 @@ La siguiente tabla consolida las métricas más importantes obtenidas del análi
 
 | Métrica                  | Tienda 1      | Tienda 2      | Tienda 3      | Tienda 4      |
 | :----------------------- | :------------ | :------------ | :------------ | :------------ |
-| **Facturación (Ingresos)** | **$1,149.9 M** | $1,116.2 M    | $1,097.7 M    | **$1,038.3 M** |
+| **Facturación (Ingresos)** | **$1,149.9 M** | $1,116.3 M    | $1,098.0 M    | **$1,038.3 M** |
 | **Calificación Promedio** | **3.98** | 4.04          | **4.05** | 4.00          |
-| **Costo Envío Promedio** | **$26,028** | $25,223        | $24,809        | **$23,459** |
+| **Costo Envío Promedio** | **$26,028** | $25,216        | $24,805        | **$23,459** |
 
 ---
 
